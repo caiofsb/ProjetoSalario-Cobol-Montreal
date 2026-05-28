@@ -1,9 +1,10 @@
 # Projeto Calcular Salario
 
 ##  Descrição
-Sistema em COBOL para cálculo de salário com bônus baseado no tempo de empresa, executado em ambiente mainframe (TK5 /TN3270).
+Sistema em COBOL para cálculo de salário com bônus baseado no tempo de empresa.
 
 ---
+* **Ambiente e Emulação:** Código desenvolvido em COBOL e exportado/executado através do emulador de terminal tn3270 (TN) com o TK5.
 
 ### Lógica que usei para construir
 
